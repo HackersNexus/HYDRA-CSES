@@ -38,7 +38,12 @@ python setup.py
 python main.py
 ```
 ![HYDRA-CSES Menu](image.png)
-
+#Payload
+![HYDRA-CSES Menu](payload.png)
+#Server 
+![HYDRA-CSES Menu](server.png)
+#Controller or remote of the rat 
+![HYDRA-CSES Menu](controller.png)
 
 ## Options
 
